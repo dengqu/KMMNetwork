@@ -1,0 +1,4 @@
+#Thu Jul 22 18:50:32 CST 2021
+base.0=/Users/dengqu/Downloads/workplace/github/dengqu/KMMNetwork/androidApp/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

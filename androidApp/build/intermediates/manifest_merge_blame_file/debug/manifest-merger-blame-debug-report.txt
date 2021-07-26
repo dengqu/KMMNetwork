@@ -1,0 +1,46 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.kmmnetwork.android"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/dengqu/Downloads/workplace/github/dengqu/KMMNetwork/androidApp/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/dengqu/Downloads/workplace/github/dengqu/KMMNetwork/androidApp/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/dengqu/Downloads/workplace/github/dengqu/KMMNetwork/androidApp/src/main/AndroidManifest.xml:5:5-18:19
+12        android:allowBackup="false"
+12-->/Users/dengqu/Downloads/workplace/github/dengqu/KMMNetwork/androidApp/src/main/AndroidManifest.xml:6:9-36
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.3.1] /Users/dengqu/.gradle/caches/transforms-2/files-2.1/6444f3c28e1b66ba26ab6f9eed4ef934/core-1.3.1/AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:supportsRtl="true"
+15-->/Users/dengqu/Downloads/workplace/github/dengqu/KMMNetwork/androidApp/src/main/AndroidManifest.xml:7:9-35
+16        android:testOnly="true"
+17        android:theme="@style/AppTheme"
+17-->/Users/dengqu/Downloads/workplace/github/dengqu/KMMNetwork/androidApp/src/main/AndroidManifest.xml:9:9-40
+18        android:usesCleartextTraffic="true" >
+18-->/Users/dengqu/Downloads/workplace/github/dengqu/KMMNetwork/androidApp/src/main/AndroidManifest.xml:8:9-44
+19        <activity
+19-->/Users/dengqu/Downloads/workplace/github/dengqu/KMMNetwork/androidApp/src/main/AndroidManifest.xml:10:9-17:20
+20            android:name="com.example.kmmnetwork.android.MainActivity"
+20-->/Users/dengqu/Downloads/workplace/github/dengqu/KMMNetwork/androidApp/src/main/AndroidManifest.xml:11:13-41
+21            android:exported="true" >
+21-->/Users/dengqu/Downloads/workplace/github/dengqu/KMMNetwork/androidApp/src/main/AndroidManifest.xml:12:13-36
+22            <intent-filter>
+22-->/Users/dengqu/Downloads/workplace/github/dengqu/KMMNetwork/androidApp/src/main/AndroidManifest.xml:13:13-16:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->/Users/dengqu/Downloads/workplace/github/dengqu/KMMNetwork/androidApp/src/main/AndroidManifest.xml:14:17-69
+23-->/Users/dengqu/Downloads/workplace/github/dengqu/KMMNetwork/androidApp/src/main/AndroidManifest.xml:14:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->/Users/dengqu/Downloads/workplace/github/dengqu/KMMNetwork/androidApp/src/main/AndroidManifest.xml:15:17-77
+25-->/Users/dengqu/Downloads/workplace/github/dengqu/KMMNetwork/androidApp/src/main/AndroidManifest.xml:15:27-74
+26            </intent-filter>
+27        </activity>
+28    </application>
+29
+30</manifest>
